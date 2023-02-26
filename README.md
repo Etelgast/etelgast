@@ -1,4 +1,4 @@
-[![Header](https://github.com/Etelgast/etelgast/blob/main/assets/logo.png)]
+![Header](https://github.com/Etelgast/etelgast/blob/main/assets/logo.png)
 ## I'm a QA Engineer.  
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1h-llluyPNMSMYk3gH8Ks3KMHViSjSavR/view?usp=share_link)
@@ -25,4 +25,4 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/etelgast/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=etelgast&show_icons=true&theme=radical)
