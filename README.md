@@ -17,9 +17,7 @@
 
 ### Testing Documentation
 
-- [Test-Suites and Test-Cases](https://github.com/etelgast/test-cases)
-- [Bug-Reports](https://github.com/etelgast/bug-reports)
-- [SQL Queries](https://github.com/etelgast/SQL)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1SoHFWfS2jdFZ4tcU6lB66BxtjmEfsdTF-3_rgxZPbDk/edit?usp=share_link)
 - [Postman Collections](https://github.com/etelgast/postman)
 
 ### Follow Me
