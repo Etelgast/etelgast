@@ -15,10 +15,14 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Testing Documentation and Postman
 
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1SoHFWfS2jdFZ4tcU6lB66BxtjmEfsdTF-3_rgxZPbDk/edit?usp=share_link)
 - [Postman Collections](https://github.com/etelgast/postman)
+
+### Automation Testing in Python
+
+- [Collection of Automation Tests](https://github.com/Etelgast/python)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/etelgast/)
