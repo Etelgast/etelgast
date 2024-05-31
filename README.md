@@ -1,6 +1,6 @@
 ![Header](https://github.com/Etelgast/etelgast/blob/main/assets/logo.png)
 ## About me  
-- Frontend Vue Developer
+- Software Engineer
 - Know about my experience [CV]
 - Reach me
 - I speak Russian, French and English
